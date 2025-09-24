@@ -11,7 +11,7 @@ Whether you're **new to NLP** or looking to **master cutting-edge RAG systems**,
 to help you **build robust language models and real-world applications**.  
 
 ---
-## Definations
+## Defination
 
 ### What is NLP?
 
