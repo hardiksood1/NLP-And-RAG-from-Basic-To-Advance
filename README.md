@@ -11,7 +11,30 @@ Whether you're **new to NLP** or looking to **master cutting-edge RAG systems**,
 to help you **build robust language models and real-world applications**.  
 
 ---
+## Definations
 
+### What is NLP?
+
+**Natural Language Processing (NLP)** is a field of artificial intelligence that helps computers understand, process, and generate human language. It involves tasks like analyzing text, translating languages, building chatbots, and extracting meaning from sentences. Think of it as teaching machines to read, write, and talk like humans!
+
+**Examples:**
+
+1. Turning speech to text (e.g., voice assistants like Siri).
+2. Classifying emails as spam or not.
+3. Generating human-like text for storytelling.
+
+
+### What is RAG?
+
+**Retrieval-Augmented Generation (RAG)** is a technique that combines information retrieval with text generation to create smarter AI responses. It searches a knowledge base (like documents or a database) to find relevant information and uses a language model to generate accurate, context-rich answers. Imagine it as a librarian who finds the right books and summarizes them for you!
+
+**Examples:**
+
+1. Answering questions by pulling facts from Wikipedia.
+2. Building chatbots that use company documents to give precise responses.
+3. Enhancing AI with up-to-date information without retraining.
+
+---
 ##  Overview  
 
 ###  Natural Language Processing (NLP)  
