@@ -16,7 +16,7 @@ Vocabulary = [I, love, AI, loves, me]
 → "I love AI" → [1, 1, 1, 0, 0]
 → "AI loves me" → [0, 0, 1, 1, 1]
 
-✅ Very simple but ignores word meaning and order.
+✅ **Very simple but ignores word meaning and order.**
 
 ## **Results of code**
 
@@ -44,12 +44,13 @@ Common words like “the”, “is”, “and” → less important.
 
 Example: In many documents, the word “AI” appears often but “deepfake” appears rarely. → “deepfake” gets higher weight.
 
-✅ Better than BoW, but still doesn’t capture meaning or order.
+✅ **Better than BoW, but still doesn’t capture meaning or order.**
 
 ## **Results of code**
 
 Vocabulary: ['fun' 'is' 'learning' 'love' 'machine' 'nlp']
-TF-IDF Matrix:
+**TF-IDF Matrix:**
+
  [[0.         0.         0.         0.70710678 0.         0.70710678]
  [0.62276601 0.62276601 0.         0.         0.         0.4736296 ]
  [0.         0.         0.62276601 0.4736296  0.62276601 0.        ]]
@@ -75,11 +76,12 @@ Word2Vec (Google) → uses context windows.
 
 GloVe (Stanford) → uses global co-occurrence of words.
 
-✅ Captures semantic meaning, but each word has one fixed vector (doesn’t change with context).
+✅ **Captures semantic meaning, but each word has one fixed vector (doesn’t change with context).**
 
 ## **Results of code**
 
-Vector for 'nlp':
+**Vector for 'nlp':**
+
  [-1.0724545e-03  4.7286271e-04  1.0206699e-02  1.8018546e-02
  -1.8605899e-02 -1.4233618e-02  1.2917745e-02  1.7945977e-02
  -1.0030856e-02 -7.5267432e-03  1.4761009e-02 -3.0669428e-03
@@ -116,12 +118,13 @@ BERT → word-level contextual embeddings.
 
 Sentence-BERT → optimized for sentence-level meaning (better for similarity, clustering).
 
-✅ Captures meaning + context. Most powerful among these.
+✅ **Captures meaning + context. Most powerful among these.**
 
 ## **Results of code**
 
-Embedding shape: (3, 384)
-Embedding for first sentence:
+**Embedding shape: (3, 384)**
+**Embedding for first sentence:**
+
  [-4.13825270e-03 -2.96884310e-02  5.89311719e-02 -4.00695018e-02
   8.18729848e-02  2.78291455e-03  6.77006245e-02  4.80398908e-02
   6.54386804e-02  3.86305824e-02 -9.38958209e-03 -1.80722550e-02
