@@ -51,7 +51,7 @@ PCA Reduced Data:
  [ 0.63322906 -0.37231637]]
 ```
 ---
-### t-SNE
+### t-SNE(t-distributed Stochastic Neighbor Embedding)
 
 ![ScreenShort](t-sne.png)
 
