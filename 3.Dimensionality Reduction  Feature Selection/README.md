@@ -1,4 +1,4 @@
-# NLP Dimensionality Reduction & Feature Selection
+# NLP Dimensionality Reduction (PCA, t-SNE, UMAP) & Feature Selection
 
 This repository contains Python scripts demonstrating **dimensionality reduction** and **feature selection** techniques in Natural Language Processing (NLP).
 
