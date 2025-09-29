@@ -6,12 +6,19 @@ This repository contains Python scripts demonstrating **dimensionality reduction
 
 ##  Files
 - `1.Principal Component Analysis (PCA).py`  
+
   Demonstrates how to use **PCA** to reduce TF-IDF feature vectors into 2 dimensions for visualization.
+  
 - `2.t-SNE (t-distributed Stochastic Neighbor Embedding)`
+
   **t-SNE (t-distributed Stochastic Neighbor Embedding)** is a non-linear dimensionality reduction technique mainly used for visualizing high-dimensional data in 2D or 3D space.
+
 - `3. UMAP (Uniform Manifold Approximation and Projection)`
+
   **UMAP (Uniform Manifold Approximation and Projection)** is a dimensionality reduction technique used in machine learning and data analysis. It is designed to reduce high-dimensional data to a lower-dimensional space (like 2D or 3D) while preserving the global and local structure of the data as much as possible.  
+
 - `4.Feature Selection (SelectKBest with Chi-Square).py`  
+
   Demonstrates **Chi-Square feature selection** to select the most relevant features from count vectors. Includes visualization of Chi2 scores.
 
 ---
