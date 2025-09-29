@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ---
 ---
 
-## 📊 Example Output
+##  Example Output
 
 ### PCA
 ```
