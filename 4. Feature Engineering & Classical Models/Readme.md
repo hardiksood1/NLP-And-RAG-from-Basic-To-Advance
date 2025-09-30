@@ -33,5 +33,14 @@ This repository contains small, self-contained projects showcasing core concepts
 - Extracts key words per topic to interpret hidden structures.  
 
 ---
-python "2.n-grams & simple language models.py"
-python "3.Topic modeling — LDA (Latent Dirichlet Allocation).py"
+
+### 4. Feature Engineering & Classical Models
+**File:** `4. Feature Engineering & Classical Models.py`  
+- Explores **feature engineering techniques** for text data:
+  - Bag-of-Words  
+  - TF-IDF  
+  - N-grams  
+- Applies classical ML models on engineered features.  
+- Shows how feature representation affects classification performance.  
+
+---
