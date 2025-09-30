@@ -1,0 +1,17 @@
+Input Text:
+Natural Language Processing (NLP) is a sub-field of Artificial Intelligence.
+
+Sentences:
+['Natural Language Processing (NLP) is a sub-field of Artificial Intelligence.']
+
+Words:
+['Natural', 'Language', 'Processing', '(', 'NLP', ')', 'is', 'a', 'sub-field', 'of', 'Artificial', 'Intelligence', '.']
+
+Filtered Words:
+['Natural', 'Language', 'Processing', 'NLP', 'Artificial', 'Intelligence']
+
+Stems:
+['natur', 'languag', 'process', 'nlp', 'artifici', 'intellig']
+
+Lemmas:
+['Natural', 'Language', 'Processing', 'NLP', 'Artificial', 'Intelligence']
