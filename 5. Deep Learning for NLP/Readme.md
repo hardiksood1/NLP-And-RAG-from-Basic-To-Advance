@@ -97,7 +97,7 @@ Covers evaluation metrics across major NLP tasks.
 ###  Sequence Labeling (NER)
 - Entity-level metrics (Precision, Recall, F1) with `seqeval`
 
-### 📝 Text Generation
+###  Text Generation
 - BLEU and ROUGE scores  
 - Perplexity computation  
 
