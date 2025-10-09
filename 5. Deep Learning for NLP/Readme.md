@@ -104,6 +104,9 @@ Covers evaluation metrics across major NLP tasks.
 ###  Regression (Optional)
 - MSE, MAE, and R² metrics  
 
+![](Figure_1.png)
+
+
 **Example Output:**
 ```
 Accuracy: 0.67
